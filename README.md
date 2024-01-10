@@ -11,7 +11,7 @@ Una calcolatrice desktop semplice realizzata con ElectronJS.
 1. **Clona il repository:**
 
    ```bash
-   git clone https://github.com/tuonome/calcolatrice-electron.git
+   https://github.com/bstefano79/calcolatrice.git
    
    
 2. **Entra nella directory del progetto**
